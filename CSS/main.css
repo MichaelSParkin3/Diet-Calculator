@@ -43,7 +43,7 @@ html, body {
   position: relative; }
 
 .exercise-btn {
-  top: 0vh;
+  top: -80vh;
   position: relative;
   width: 100%;
   display: table;
